@@ -2,3 +2,9 @@ body{
     color: white;
     background: #000;
 }
+.box{
+    border: 2px solid red;
+    margin: 40px;
+    padding: 20px;
+    background-color: purple;
+}
